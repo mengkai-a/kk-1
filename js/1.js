@@ -62,5 +62,6 @@ $(function () {
         arr[index].done = $(this).prop('checked');
         saveDate(arr)
         load()
+        //哈哈哈哈哈哈哈哈哈哈
     })
 })
